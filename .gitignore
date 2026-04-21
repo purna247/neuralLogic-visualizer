@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+dist/
+dist-ssr/
+build/
+coverage/
+
+# local env files
+.env*
+!.env.example
+
+# editors
+.DS_Store
+*.log
+.vscode/
+.idea/
